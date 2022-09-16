@@ -1,0 +1,1 @@
+This will be a webpage that will allow the user to create their own flashcards, store them in the memory and test themselves with the flashcards.
